@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TaskApp"
+rootProject.name = "student-mobile-app"
 include(":app")
- 
